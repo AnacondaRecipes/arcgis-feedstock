@@ -4,3 +4,8 @@ build_env_vars:
 upload_channels:
   - sfe1ed40
 
+channels:
+- https://staging.continuum.io/prefect/fs/geomet-feedstock/pr2/112d417
+- https://staging.continuum.io/prefect/fs/puremagic-feedstock/pr2/16c6ee5
+- https://staging.continuum.io/prefect/fs/requests-gssapi-feedstock/pr1/9627d40
+
