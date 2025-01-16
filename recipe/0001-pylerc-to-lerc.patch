@@ -1,0 +1,25 @@
+From b7f5b26a79f96df4a4c1664b3941c9e959090005 Mon Sep 17 00:00:00 2001
+From: Udo-Peter Steyer <ous8292@gmail.com>
+Date: Wed, 15 Jan 2025 15:17:07 -0600
+Subject: [PATCH] pylerc-to-lerc
+
+---
+ setup.py                     | 2 +-
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/setup.py b/setup.py
+index d80c680..e4ea070 100644
+--- a/setup.py
++++ b/setup.py
+@@ -71,7 +71,7 @@ else:
+         "numpy >=1.21.6,<2",
+         "matplotlib",
+         "keyring >=23.3.0",
+-        "pylerc",
++        "lerc",
+         "ujson >=3",
+         "truststore>=0.7.0;python_version>'3.9'",
+         'pywin32 >=223;platform_system=="Windows"',
+-- 
+2.39.5 (Apple Git-154)
+
